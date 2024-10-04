@@ -1,0 +1,2 @@
+ This practice project is Role Playing Game which
+include fundamental programming concepts in JavaScript . demonstarte  work with arrays, strings, objects, functions, loops, if/else statements, and more.
